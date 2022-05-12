@@ -7,26 +7,3 @@
 .group {
   margin-bottom: 20px;
 }
-
-/* 
-.form-field:not(:last-of-type) {
-  margin-bottom: 10px;
-}
-
-.group {
-  margin-bottom: 20px;
-}
-
-/* 
-.form-field:not(:first-of-type) {
-  margin-top: 10px;
-}
-
-.group:not(:first-of-type) {
-  margin-top: 20px;
-}
-
-button {
-  margin-top: 20px;
-}
-*/
